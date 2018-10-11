@@ -18,3 +18,5 @@ for filename in $INPUT_DIR/*.pdb
 done
 
 cat $RESULTS_DIR/length.txt
+
+# end of script
