@@ -20,3 +20,4 @@ done
 cat $RESULTS_DIR/length.txt
 
 # end of script
+# something new here
